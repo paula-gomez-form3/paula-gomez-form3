@@ -4,6 +4,6 @@
 
 🇦🇷 Currently I'm hiring Senior Software Engineers in Argentina
 
-💡 Interested in learning more about Form3? Check out our [careers page] (https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
+💡 Interested in learning more about Form3? Check out our [careers page](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
 
 🎧 Listen our[.tech podcast](https://techpodcast.form3.tech/)
