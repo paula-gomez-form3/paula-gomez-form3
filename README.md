@@ -6,4 +6,4 @@
 
 💡 Interested in learning more about Form3? Check out our [careers page](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
 
-🎧 Listen our[.tech podcast](https://techpodcast.form3.tech/)
+🎧 Listen our [.tech podcast](https://techpodcast.form3.tech/)
