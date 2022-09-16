@@ -1,6 +1,6 @@
 # Hi, I'm Paula 👋
 
-#### Talent Partner - Engineering & Security @[Form3](https://www.form3.tech/)
+### Talent Partner - Engineering & Security @[Form3](https://www.form3.tech/)
 
 **Hiring:** Senior Software Engineers, Senior Platform Engineers and Cloud Security Engineers
 
