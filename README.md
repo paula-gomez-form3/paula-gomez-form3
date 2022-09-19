@@ -12,7 +12,7 @@
 
 ### About Form3 🚀
 
-Cloud-native payments pioneers. We are building the technology that will power the [future of payments.](https://www.form3.tech/why-form3/about-us)
+#### Cloud-native payments pioneers. We are building the technology that will power the [future of payments.](https://www.form3.tech/why-form3/about-us)
 
 - [Current job openings](https://www.form3.tech/careers/vacancies)
 
