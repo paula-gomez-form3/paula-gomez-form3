@@ -4,7 +4,7 @@
 
 **Hiring:** Senior Software Engineers, Senior Platform Engineers and Cloud Security Engineers
 
-**Locations:** Europe, East Canada and Argentina, with the option to offer work sponsorship in the UK and Netherlands.
+**Locations:** Europe 🇪🇺, East Canada 🇨🇦 and Argentina 🇦🇷, with the option to offer work sponsorship in the UK and Netherlands.
 
 ### About me 👩🏻
 
