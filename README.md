@@ -36,6 +36,8 @@
 
 If you want to chat about Form3 and our amazing, remote-first Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/gomezpaula/) or [paula.gomez@form3.tech](mailto:paula.gomez@form3.tech)
 
+You can book an intro call to speak in more detail following my availabilities [here](https://calendly.com/paulaform3/intro)
+
 ### Form3 values
 
 **T**ransparency 👀
