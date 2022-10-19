@@ -18,7 +18,7 @@
 
 - [Technology stack](https://stackshare.io/form3/main) Go, K8s, NATS, CockroachDB, Multi-cloud
 
-- [Engineering culture](https://www.form3.tech/engineering/life-at-form3)
+- [Engineering culture](https://www.linkedin.com/company/form3-financial-cloud/life/)
 
 - [Interview process](https://github.com/form3tech-oss/candidate-pack)
 
