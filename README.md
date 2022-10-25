@@ -18,7 +18,7 @@
 
 - [Technology stack](https://stackshare.io/form3/main) Go, K8s, NATS, CockroachDB, Multi-cloud
 
-- [How Form3 platform works?] (https://vimeo.com/465419215)
+- [How Form3 platform works?](https://vimeo.com/465419215)
 
 - [Engineering culture](https://www.linkedin.com/company/form3-financial-cloud/life/)
 
