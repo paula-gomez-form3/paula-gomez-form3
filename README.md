@@ -32,7 +32,7 @@
 
 - [The best intro to Golang EVER](https://www.youtube.com/watch?v=B1UP16OJpys)
 
-- [Transitioning to Go](https://techpodcast.form3.tech/episodes/ep-24-tech-moving-to-go)
+- [Tech Podcast: Transitioning to Go](https://techpodcast.form3.tech/episodes/ep-24-tech-moving-to-go)
 
 ### How to reach me 📬
 
