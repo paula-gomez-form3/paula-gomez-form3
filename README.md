@@ -30,9 +30,13 @@
 
 - [CTO Interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)
 
+### Golang resources & learning material
+
 - [The best intro to Golang EVER](https://www.youtube.com/watch?v=B1UP16OJpys)
 
-- [Tech Podcast: Transitioning to Go](https://techpodcast.form3.tech/episodes/ep-24-tech-moving-to-go)
+- [Tech Podcast: Engineers moving to Go](https://techpodcast.form3.tech/episodes/ep-24-tech-moving-to-go)
+
+- [COURSE: Transitioning from Java to Go](https://www.linkedin.com/learning/transitioning-from-java-to-go)
 
 ### How to reach me 📬
 
