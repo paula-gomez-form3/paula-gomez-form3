@@ -30,6 +30,10 @@
 
 - [CTO Interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)
 
+- [Our Remote culture](https://www.form3.tech/careers/culture)
+
+- [People Blog](https://www.form3.tech/careers/blog)
+
 ### Golang resources & learning material 💻
 
 - [The best intro to Golang EVER](https://www.youtube.com/watch?v=B1UP16OJpys)
